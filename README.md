@@ -1,4 +1,4 @@
-# [Hi, my name is Adam!]
+# Hi!
 
 Website templates in HTML, CSS, and JavaScript — clean, responsive, and built for real use.
 
