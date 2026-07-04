@@ -14,7 +14,7 @@ Website templates in HTML, CSS, and JavaScript — clean, responsive, and built 
 
 ## About
 
-I design and build ready-to-use website templates for small businesses, portfolios, landing pages, and startups. No frameworks — just clean, dependency-free HTML/CSS/JS that's easy to customize and deploy anywhere.
+I design and produce ready-to-use website templates for small businesses, portfolios, landing pages, and startups. No frameworks — just clean, dependency-free HTML/CSS/JS that's easy to customize and deploy anywhere.
 
 Open to custom/freelance work. Reach out by email with your project details.
 
